@@ -23,3 +23,6 @@ It predicts whether a transaction is fraudulent using a trained ML model and log
 ```bash
 git clone <your-repo-url>
 cd credit-fraud-dashboard
+
+Used a credit card dataset from kaggle to train the model
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
